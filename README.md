@@ -1,4 +1,3 @@
-# Adaptive-Smart-Street-Lightning-System-With-Day-Light-Motion-Based-Intensity-Control
 # <h1>ADAPTIVE SMART STREET LIGHTNING SYSTEM WITH DAY/NIGHT & MOTION BASED INTENSITY CONTROL</h1>
 
 <h2>Introduction</h2>
